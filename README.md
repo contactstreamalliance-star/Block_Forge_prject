@@ -1,4 +1,3 @@
-[README.md](https://github.com/user-attachments/files/31908081/README.md)
 # Voxel Frontier Alpha
 
 Voxel Frontier Alpha est une pré-alpha jouable d'un bac à sable voxel rétro, libre et original. Le projet vise une sensation de vieux jeu de blocs : terrain généré, textures 16x16, casse et pose de blocs, sauvegarde locale, brouillard rétro et base de modding simple.
